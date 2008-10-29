@@ -1,7 +1,7 @@
 Skype Chat Logger
 =================
 
-This is a Python application to logging skype chats, and a
+This is a Python application to log skype chats, and provide a
 search interface via web browsers.
 
 
